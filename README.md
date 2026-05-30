@@ -142,7 +142,7 @@ An autonomous oceanic infrastructure system designed to:
 
 # Repository Index
 
-# I. The Only Viable Climate Solution — Direct Planetary Cooling
+# I. A Proposed Core Climate Response — Direct Planetary Cooling
 
 * Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan  
   https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
@@ -150,7 +150,7 @@ An autonomous oceanic infrastructure system designed to:
 * Direct Planetary Cooling – Integrated Repository Index  
   https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
 
-* The Only Viable Solution to Global Warming: Direct Planetary Cooling  
+* A Proposed Integrated Response to Global Warming: Direct Planetary Cooling  
   https://note.com/inchacomusho/n/n32f7295434aa
 
 * Direct Planetary Cooling: Deep-Sea Aeration × Mist Cooling  
