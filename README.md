@@ -7,6 +7,15 @@ License: Fully Open License (Free to use, modify, translate, redistribute, and c
 
 ---
 
+## Position within the Civilization OS Framework
+
+This document is part of the **Civilization OS** and **REIMEI Civilization OS / Next Civilization OS** framework, which aims to redesign civilization in alignment with natural law, planetary circulation, and the age of AI.
+
+- [Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
+- [REIMEI Civilization OS / Next Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
+
+---
+
 # Abstract
 
 This repository is a unified master index of a proposed sustainable future civilization framework based on:
