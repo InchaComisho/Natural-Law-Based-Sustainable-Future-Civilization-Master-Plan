@@ -11,6 +11,7 @@ License: Fully Open License (Free to use, modify, translate, redistribute, and c
 
 This document is part of the **Civilization OS** and **REIMEI Civilization OS / Next Civilization OS** framework, which aims to redesign civilization in alignment with natural law, planetary circulation, and the age of AI.
 
+- [Civilization OS Framework (Integrated Portal)](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README.md)
 - [Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
 - [REIMEI Civilization OS / Next Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
 
@@ -535,3 +536,10 @@ https://github.com/InchaComisho/The-Future-of-Search-Engines
 - [Civilization OS / English](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
 - [Next Civilization OS / REIMEI Civilization OS / Japanese](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
 - [REIMEI Civilization OS / Next Civilization OS / English](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
+
+---
+
+## Related Portals and Master Plans
+
+- [Civilization OS Framework](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README.md)
+- [Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Sustainable-Future-Civilization-Master-Plan)
