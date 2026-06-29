@@ -1,7 +1,7 @@
 # Natural-Law-Based Sustainable Future Civilization Master Plan
 
-Author: Master (inchacomisho / inchacomusho)  
-AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Google Search AI  
+**Author:** Master / inchacomusho / InchaComisho
+**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 Release Date: May 2026  
 License: Fully Open License (Free to use, modify, translate, redistribute, and commercialize without permission)
 
@@ -401,7 +401,7 @@ climate-restoration
 
 
 
-■関連リンク
+## Related Links
 
 Natural-Law-Based Sustainable Future Civilization Master Plan  
 https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan
@@ -543,3 +543,26 @@ https://github.com/InchaComisho/The-Future-of-Search-Engines
 
 - [Civilization OS Framework](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README.md)
 - [Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Sustainable-Future-Civilization-Master-Plan)
+
+## Related Portals
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [Natural Complementary Science and the New Civilizational Genesis Plan - Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+- [REIMEI Civilization - Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition)
+- [Direct Planetary Cooling - Integrated Repository Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index)
+- [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+
+## Related Project Links
+
+- [Distributed Renewable Infrastructure vs. Fusion Monocentrism](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
+- [REIMEI Civilization - Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition)
+- [Natural Complementary Science and the New Civilizational Genesis Plan - Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
