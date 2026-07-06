@@ -5,6 +5,8 @@
 Release Date: May 2026  
 License: Fully Open License (Free to use, modify, translate, redistribute, and commercialize without permission)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ---
 
 ## Position within the Civilization OS Framework
