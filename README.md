@@ -1,5 +1,7 @@
 # Natural-Law-Based Sustainable Future Civilization Master Plan
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 **Author:** Master / inchacomusho / InchaComisho
 **AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 Release Date: May 2026  
